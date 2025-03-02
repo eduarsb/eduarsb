@@ -2,7 +2,7 @@
     ¡Hola!👋
 </h3>
 
-👩‍💻 Soy Eduardo, desarrollador web front-end, especialmente usando VanillaJS, Angular y React. Me encanta crear interfaces que sean fáciles de usar y que funcionen súper bien. He trabajado en varios proyectos, así que tengo experiencia desarrollando aplicaciones web que aguantan mucho tráfico y que son rápidas.<br><br>Actualmente estoy actualizando mis proyectos..
+👩‍💻 Soy Eduardo, desarrollador web front-end especializado en VanillaJS, Angular y React. Mi pasión es crear interfaces intuitivas, funcionales y altamente eficientes. A lo largo de mi trayectoria, he trabajado en diversos proyectos, adquiriendo experiencia en el desarrollo de aplicaciones web rápidas, escalables y capaces de soportar alto tráfico.
 
 <br><br>
 <div align="center">
