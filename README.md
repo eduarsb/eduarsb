@@ -3,7 +3,7 @@
 </h3>
 Soy Eduardo, desarrollador web front-end, especialmente usando VanillaJS, Angular y React. Me encanta crear interfaces que sean fáciles de usar y que funcionen súper bien. He trabajado en varios proyectos, así que tengo experiencia desarrollando aplicaciones web que aguantan mucho tráfico y que son rápidas.<br><br>Actualemte estoy actualizando mis proyectos..
 
-<br>
+<br><br>
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=eduarsb&theme=blue-green&hide_border=false"  height="150">
 </div>
