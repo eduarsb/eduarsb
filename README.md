@@ -4,6 +4,8 @@
 
 👩‍💻 Soy Eduardo, desarrollador web front-end especializado en VanillaJS, Angular y React. Mi pasión es crear interfaces intuitivas, funcionales y altamente eficientes. A lo largo de mi trayectoria, he trabajado en diversos proyectos, adquiriendo experiencia en el desarrollo de aplicaciones web rápidas, escalables y capaces de soportar alto tráfico.
 
+Trabajo en proceso....
+
 <br><br>
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=eduarsb&theme=blue-green&hide_border=false"  height="150">
