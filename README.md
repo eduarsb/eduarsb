@@ -23,3 +23,14 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+### Proyectos destacados
+
+**[aws-reference-stack](https://github.com/eduarsb/aws-reference-stack)** — Arquitectura AWS pequeña pero con forma de producción, descrita entera en Terraform: servicio web en contenedores detrás de un ALB y una tubería de trabajo asíncrono, unidas con IAM de mínimo privilegio. Se despliega con `terraform apply` y nada más.
+
+Tres decisiones que muestra, y que también hay que tomar en un sistema real:
+
+- Red en dos zonas de disponibilidad, con el cómputo en subredes privadas y salida por un único NAT gateway.
+- Cola de trabajos con cola de mensajes muertos tras tres fallos, para que un mensaje envenenado no bloquee el consumo.
+- Cada permiso de IAM acotado al recurso que lo necesita: ninguna política con comodín.
+
